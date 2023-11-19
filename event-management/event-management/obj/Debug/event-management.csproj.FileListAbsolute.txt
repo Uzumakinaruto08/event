@@ -1,0 +1,14 @@
+C:\Users\41768\source\repos\event-management\event-management\bin\Debug\event-management.exe.config
+C:\Users\41768\source\repos\event-management\event-management\bin\Debug\event-management.exe
+C:\Users\41768\source\repos\event-management\event-management\bin\Debug\event-management.pdb
+C:\Users\41768\source\repos\event-management\event-management\obj\Debug\event-management.csproj.AssemblyReference.cache
+C:\Users\41768\source\repos\event-management\event-management\obj\Debug\event_management.Form1.resources
+C:\Users\41768\source\repos\event-management\event-management\obj\Debug\event_management.Properties.Resources.resources
+C:\Users\41768\source\repos\event-management\event-management\obj\Debug\event-management.csproj.GenerateResource.cache
+C:\Users\41768\source\repos\event-management\event-management\obj\Debug\event-management.csproj.CoreCompileInputs.cache
+C:\Users\41768\source\repos\event-management\event-management\obj\Debug\event-management.exe
+C:\Users\41768\source\repos\event-management\event-management\obj\Debug\event-management.pdb
+C:\Users\41768\source\repos\event-management\event-management\obj\Debug\event_management.login.resources
+C:\Users\41768\source\repos\event-management\event-management\obj\Debug\event_management.dashboard.resources
+C:\Users\41768\source\repos\event-management\event-management\obj\Debug\event_management.user.resources
+C:\Users\41768\source\repos\event-management\event-management\obj\Debug\event_management.gym.resources
